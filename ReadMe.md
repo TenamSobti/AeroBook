@@ -38,4 +38,4 @@ Apart from it, MySQL server is an obvious requirement.
 - Install the Dependencies.
 - Run.
 
-Thank You!!
+**Thank You For Visiting!**
